@@ -1,0 +1,2 @@
+To run the project open in integrated terminal(powershell) and type-
+streamlit run app.py # filename
