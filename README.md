@@ -1,5 +1,6 @@
 # Stock-Prediction-and-Alert-System-
 This project is a Stock Prediction and Alert System that leverages historical data and technical indicators to generate short-term BUY/SELL signals using an XGBoost machine learning model. The app is built using Streamlit for interactive visualization and includes integration with Telegram, enabling users to receive alerts and data files instantly.
+
 Key features:
 
 Real-time analysis of Indian stock data (e.g., TATAGOLD.NS) using the Yahoo Finance API (yfinance)
